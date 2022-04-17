@@ -1,0 +1,242 @@
+[
+    {
+        "category": "Entertainment: Music",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Who had a 1969 top 5 hit with the song,  &#039;A Boy Named Sue&#039;?",
+        "correct_answer": "Johnny Cash",
+        "incorrect_answers": [
+            "Bob Dylan",
+            "Willie Nelson",
+            "Kris Kristofferson"
+        ]
+    },
+    {
+        "category": "History",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "The Tsar Bomba, the most powerful nuclear bomb ever tested, had a yield of 50 megatons but theoretically had a maximum yield of how much?",
+        "correct_answer": "100 Megatons",
+        "incorrect_answers": [
+            "200 Megatons",
+            "75 Megatons",
+            "150 Megatons"
+        ]
+    },
+    {
+        "category": "Entertainment: Video Games",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Who is the writer of the game &quot;Half-Life&quot;?",
+        "correct_answer": "Marc Laidlaw",
+        "incorrect_answers": [
+            "Gabe Newell",
+            "Robin Walker",
+            "Chet Faliszek"
+        ]
+    },
+    {
+        "category": "Entertainment: Video Games",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "In the game &quot;Undertale&quot;, who was Mettaton&#039;s creator?",
+        "correct_answer": "Alphys",
+        "incorrect_answers": [
+            "Undyne",
+            "Sans",
+            "Asgore"
+        ]
+    },
+    {
+        "category": "Entertainment: Video Games",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "What is the main ship used by Commander Shepard in the Mass Effect Franchise called?",
+        "correct_answer": "Normandy",
+        "incorrect_answers": [
+            "Osiris",
+            "Infinity",
+            "Endeavour"
+        ]
+    },
+    {
+        "category": "Geography",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "The mountainous Khyber Pass connects which of the two following countries?",
+        "correct_answer": "Afghanistan and Pakistan",
+        "incorrect_answers": [
+            "India and Nepal",
+            "Pakistan and India",
+            "Tajikistan and Kyrgyzstan"
+        ]
+    },
+    {
+        "category": "Entertainment: Video Games",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "In the game series &quot;The Legend of Zelda&quot;, what was the first 3D game?",
+        "correct_answer": "Ocarina of Time",
+        "incorrect_answers": [
+            "Majora&#039;s Mask",
+            "A Link to the Past",
+            "The Wind Waker"
+        ]
+    },
+    {
+        "category": "History",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What is the name of the US Navy spy ship which was attacked and captured by North Korean forces in 1968?",
+        "correct_answer": "USS Pueblo",
+        "incorrect_answers": [
+            "USS North Carolina",
+            "USS Constitution",
+            "USS Indianapolis"
+        ]
+    },
+    {
+        "category": "Politics",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "How many people are in the U.S. House of Representatives?",
+        "correct_answer": "435",
+        "incorrect_answers": [
+            "260",
+            "415",
+            "50"
+        ]
+    },
+    {
+        "category": "Entertainment: Video Games",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "In Need For Speed Most Wanted (2005), what do you drive at the beginning of the career mode?",
+        "correct_answer": "BMW M3 GTR",
+        "incorrect_answers": [
+            "Porsche 911 Turbo",
+            "Nissan 240SX",
+            "Ford Mustang"
+        ]
+    },
+    {
+        "category": "Vehicles",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What do the 4 Rings in Audi&#039;s Logo represent?",
+        "correct_answer": "Previously independent automobile manufacturers",
+        "incorrect_answers": [
+            "States in which Audi makes the most sales",
+            "Main cities vital to Audi",
+            "Countries in which Audi makes the most sales"
+        ]
+    },
+    {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "How long did it take the motorized window washers of the original World Trade Center to clean the entire exterior of the building?",
+        "correct_answer": "1 Month",
+        "incorrect_answers": [
+            "3 Weeks",
+            "1 Week",
+            "2 Months"
+        ]
+    },
+    {
+        "category": "Entertainment: Video Games",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Which of these weapon classes DO NOT appear in the first Monster Hunter game?",
+        "correct_answer": "Bow ",
+        "incorrect_answers": [
+            "Hammer",
+            "Heavy Bowgun",
+            "Light Bowgun"
+        ]
+    },
+    {
+        "category": "Entertainment: Japanese Anime & Manga",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which of the following anime of the mecha genre began airing in 1982?",
+        "correct_answer": "The Super Dimension Fortress Macross",
+        "incorrect_answers": [
+            "Mobile Suit Gundam",
+            "Armored Trooper VOTOMS",
+            "Neon Genesis Evangelion"
+        ]
+    },
+    {
+        "category": "History",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "In what year did the Berlin Wall fall?",
+        "correct_answer": "1989",
+        "incorrect_answers": [
+            "1987",
+            "1991",
+            "1993"
+        ]
+    },
+    {
+        "category": "Entertainment: Video Games",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": " Which of these champions from the MOBA &#039;League of Legends&#039; is NOT a Yordle?",
+        "correct_answer": "Annie",
+        "incorrect_answers": [
+            "Veigar",
+            "Tristana",
+            "Lulu"
+        ]
+    },
+    {
+        "category": "Entertainment: Video Games",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What is the AK-47&#039;s name in Counter Strike: Source?",
+        "correct_answer": "CV-47",
+        "incorrect_answers": [
+            "AK-74",
+            "AK",
+            "CZ-75"
+        ]
+    },
+    {
+        "category": "Entertainment: Film",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which of the following actors does not play a role in the movie &quot;The Usual Suspects?&quot;",
+        "correct_answer": "Steve Buscemi",
+        "incorrect_answers": [
+            "Kevin Spacey",
+            "Benicio Del Toro",
+            "Gabriel Byrne"
+        ]
+    },
+    {
+        "category": "Science: Computers",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Which kind of algorithm is Ron Rivest not famous for creating?",
+        "correct_answer": "Secret sharing scheme",
+        "incorrect_answers": [
+            "Hashing algorithm",
+            "Asymmetric encryption",
+            "Stream cipher"
+        ]
+    },
+    {
+        "category": "Entertainment: Books",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "In Romance of the Three Kingdoms, who was not a member of the Peach Garden Oath?",
+        "correct_answer": "Zhao Yun",
+        "incorrect_answers": [
+            "Liu Bei",
+            "Guan Yu",
+            "Zhang Fei"
+        ]
+    }
+]
